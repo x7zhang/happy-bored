@@ -1,14 +1,16 @@
 Landing Page:
-    1. Sign In / Log Out (access component)
+    1. Sign In / Log Out (access component)(done)
     2. Slideshow of Activities (done)
 
 Access Pages:
-    1. Sign In:
+    1. Log In: 
+    localhost:3000/log-in
     Sign in form + Access token
     url change(navigation)
 
-    2. Log Out:
-    Log out form => back to landing page
+    2. Sign Up:
+    localhost:3000/sign-up
+    sign up form 
 
 Main Page:
     1. Acodiant Menu:(LeftMenu)

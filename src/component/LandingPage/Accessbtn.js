@@ -6,7 +6,7 @@ import React from 'react';
 const AccessBtn = () => {
     return (
         <div>
-            <button>Sign In</button> | <button>Log out</button>
+            <button>Log In</button> | <button>Sign up</button>
         </div>
     );
 };
