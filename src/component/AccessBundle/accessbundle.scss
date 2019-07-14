@@ -82,6 +82,18 @@ button {
             cursor: help;
         }
 
+        .error-message {
+            margin-left: 0;
+            width: 100%;
+            background: #ff3c41;
+            color: white;
+            padding: 5px 10px;
+            margin-left: 7% !important;
+            width: 78%;
+            border-bottom-right-radius: 2px;
+            border-bottom-left-radius: 2px;
+        }
+
         :last-child {
             margin-right: 0;
         }
@@ -126,9 +138,6 @@ button {
                                 
             }
             
-        }
-        .error-message {
-            display: none;
         }
 
         .right {
